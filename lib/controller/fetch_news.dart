@@ -4,7 +4,7 @@ import 'package:http/http.dart';
 import 'package:in_short/model/news_model.dart';
 
 const url =
-    'https://newsapi.org/v2/top-headlines?apiKey=0ffaa107af9a42e1b3488e0d32a262c6&country=in';
+    'https://newsapi.org/v2/top-headlines?apiKey=putHere';
 
 class FetchNews {
   Future<List<NewsItem>> fetchNews() async {
