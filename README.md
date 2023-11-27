@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 New App
+put your news api from newsapi in lib/controller/fetch_news.dart 
